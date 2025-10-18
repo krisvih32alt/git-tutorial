@@ -99,3 +99,9 @@ git log
 git fetch
 ```
 Now you can see other branches (like Vihaan's branch)
+
+### Step 15: Create a Pull Request
+Open this page: https://github.com/krisvih32alt/git-tutorial/pulls
+Click New Pull request button 
+Select your branch name under "compare:"
+Hit "Create new Pull Request"
